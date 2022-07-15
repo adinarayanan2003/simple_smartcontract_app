@@ -86,8 +86,6 @@ async function connect(){
     }
 }
 
-const ethamount=1
-
 async function fund(){
     const ethamount= document.getElementById("ethamount").value
     if(window.ethereum!=="undefined"){
