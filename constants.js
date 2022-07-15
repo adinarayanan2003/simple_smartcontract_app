@@ -1,4 +1,4 @@
-export const contractaddress = "0x100C6f6594f783C742D808f267fd9F70E80Add7c"
+export const contractaddress = "your contract address"
 
 
 export const abi = [
